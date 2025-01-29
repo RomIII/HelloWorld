@@ -6,7 +6,7 @@ namespace Romiii\Helloworld;
 
 class Hello
 {
-    public function _construct()
+    public function __construct()
     {
         echo "Hello World!";
     }
