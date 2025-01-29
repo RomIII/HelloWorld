@@ -1,0 +1,25 @@
+{
+    "name": "romiii/helloworld",
+    "description": "test",
+    "type": "library",
+    "license": "GPL-3.0-only",
+    "autoload": {
+        "psr-4": {
+            "Romiii\\Helloworld\\": "src/",
+            "Monolog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RomanK",
+            "email": "r.kovin@youtavel.me"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+
+    },
+    "require-dev": {
+
+    }
+}
